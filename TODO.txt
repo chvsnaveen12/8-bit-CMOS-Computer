@@ -1,0 +1,4 @@
+Creation of a simulator <pygame>
+Creation of a new flash programmer for linux <Arduino nano>
+High level block diagrams
+High level structure <Whimsical>
