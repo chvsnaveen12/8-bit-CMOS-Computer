@@ -3,4 +3,7 @@ Attached some resources for one to lightly understand the workings of this Perso
 
 ## Files
 [CPU.png](https://github.com/chvsnaveen12/8-bit-TTL-Computer/tree/main/High%20level%20overview/CPU.png) provides a flowchart of the CPU operation (you may have to open the image in a new tab).
-I have also linked the whimsical board [here.](https://whimsical.com/cpu-PVKMMdZrn2yi96E1NiEuRd)
+I have also attached the whimsical board [here.](https://whimsical.com/cpu-PVKMMdZrn2yi96E1NiEuRd)
+
+[GPU.png](https://github.com/chvsnaveen12/8-bit-TTL-Computer/tree/main/High%20level%20overview/GPU.png) provides a flowchart of the GPU operation (you may have to open the image in a new tab).
+I have also attached the whimsical board [here.](https://whimsical.com/gpu-JYdGDeqaM4xDhZewPPX2EX)
