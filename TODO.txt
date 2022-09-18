@@ -1,4 +1,4 @@
-Creation of a simulator <pygame>
-Creation of a new flash programmer for linux <Arduino nano>
+Creation of a simulator <pygame> have to yet start
+Creation of a new flash programmer for linux <Arduino nano> progress but have to get handshake working
 High level block diagrams
 High level structure <Whimsical> Almost done only keyboard buffer left
