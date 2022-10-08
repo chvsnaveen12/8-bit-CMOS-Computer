@@ -1,1 +1,1 @@
-# 8-bit-TTL-Computer
+# 8-bit-CMOS-Computer
