@@ -29,6 +29,9 @@ I only added one feature, which I thought was essential to the process of writin
  ```
  After running the command, python creates an output.bin file.
  
+<br />
+<br />
+
 # Text to binary
 I wrote all my microcode in text files, this converts the ascii format to binary.
 
