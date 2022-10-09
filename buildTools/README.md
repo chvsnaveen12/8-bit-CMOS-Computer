@@ -27,7 +27,7 @@ I only added one feature, which I thought was essential to the process of writin
 ```
    python3 asm.py {PATH_TO_SOURCE}
  ```
- After running the command, python creates an output.bin file.
+ After running the command, python creates an output.bin file inside the assembler folder.
  
 <br />
 <br />
