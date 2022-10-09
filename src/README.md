@@ -1,3 +1,16 @@
+# Build environment
+This is the usual build environment. All the code resides in /code.
+### Usual commands
+
+##### Assemble OS.s
+```
+   python3 assembler/asm.py code/OS.s
+```
+##### Flash the ROM
+```
+   prom.exe assembler\output.bin
+ ```
+
 ### File strucure
     .
     └── src                    # The usual build environment
