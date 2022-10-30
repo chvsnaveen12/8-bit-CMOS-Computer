@@ -1,5 +1,5 @@
 # Build environment
-This is the usual build environment. All the code resides in /code.
+This is the usual build environment. All the code resides in /code. Download [prom.exe by slu4](https://github.com/slu4coder/SST39SF010-FLASH-Programmer) and place it in this folder.
 ### Usual commands
 
 ##### Assemble OS.s
